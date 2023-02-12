@@ -1,0 +1,62 @@
+body {
+    padding: 50px;
+}
+
+.ima {
+    border-radius: 50%;
+}
+
+.about {
+    font-size: 20px;
+}
+
+.tipo{
+    font-family:'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: 100px;
+}
+
+.subtitle{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+}
+
+
+.bol {
+    font-weight: bold;
+}
+
+
+.card-cont {
+    display: flex;
+    align-items: center;
+    align-content: center;
+    margin-top: 100px;
+}
+
+
+.social {  
+    display: flex;
+    flex-direction: column;
+    flex-wrap:nowrap;
+}
+
+span {
+    font-size: 20px;
+}
+
+.gray {
+    color: darkcyan;
+}
+
+li {
+    font-size: 20px;
+    padding: 5px;
+    margin: 10px;   
+}
+
+a {
+    padding: 8px;
+    font-size: 20px;    
+}
+
