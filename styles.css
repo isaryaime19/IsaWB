@@ -19,13 +19,21 @@ body {
 .subtitle{
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-style: italic;
+    color: #990000;
 }
 
+.fa-brands {
+    color:  darkcyan;
+}
 
 .bol {
     font-weight: bold;
+    color: #990000;
 }
 
+h2, h3, h4 {
+    color:#990000;
+}
 
 .card-cont {
     display: flex;
@@ -46,7 +54,7 @@ span {
 }
 
 .gray {
-    color: darkcyan;
+    color:#990000;
 }
 
 li {
@@ -60,3 +68,8 @@ a {
     font-size: 20px;    
 }
 
+@media screen and (max-width: 700px) {
+    .tipo {
+        font-size: 40px;
+    }
+}
