@@ -1,7 +1,3 @@
-body {
-    padding: 50px;
-}
-
 .ima {
     border-radius: 50%;
 }
@@ -72,4 +68,6 @@ a {
     .tipo {
         font-size: 40px;
     }
+
+    
 }
